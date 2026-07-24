@@ -1,3 +1,4 @@
+const x: string = 123;
 export const runtime = 'edge';
 
 export async function GET() {
